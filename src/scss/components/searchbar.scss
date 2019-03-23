@@ -1,0 +1,10 @@
+.select__container{
+  border: solid $color-secondary;
+  border-width: .3rem;
+  background-color: $color-secondary;
+}
+
+.select__input, .select__button{
+  margin: 10px;
+
+}

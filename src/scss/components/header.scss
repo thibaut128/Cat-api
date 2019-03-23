@@ -1,0 +1,11 @@
+.header{
+	height: 70px;
+	border-bottom: solid $color-secondary;
+	border-width : .2rem;
+}
+
+.header__title{
+	font-family: $openSans;
+	font-size: 50px;
+	margin: auto;
+}
